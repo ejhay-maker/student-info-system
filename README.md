@@ -83,6 +83,11 @@ python -m pytest -v
   }
 }
 ```
+## Future Improvements
+
+- Export student records to CSV
+- Add a web interface
+- Add a database backend (SQLite/PostgreSQL)
 
 ## Author
 
